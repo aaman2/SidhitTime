@@ -17,7 +17,7 @@
 ## 🚀 Live Demo
 
 👉 [Click here to view the live version on Netlify](https://sidhittime.netlify.app/)  
-
+👉 [Click here to view the live version on Github Pages](https://aaman2.github.io/SidhitTime/)
 
 ---
 
